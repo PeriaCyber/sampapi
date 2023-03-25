@@ -1,0 +1,20 @@
+[
+    {
+      "color": "ffa500",
+      "dopname": "(X2 акции)",
+      "maxonline": 50,
+      "name": "EDGAR",
+      "online": 33,
+      "server_status": true,
+      "server_num": "1"
+    },
+   {
+      "color": "fff000",
+      "dopname": "(X2 акции)",
+      "maxonline": 50,
+      "name": "Lom",
+      "online": 100,
+      "server_status": true,
+      "server_num": "2"
+    }
+]
