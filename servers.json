@@ -1,20 +1,11 @@
 [
-    {
-      "color": "ffa500",
-      "dopname": "(X2 акции)",
-      "maxonline": 50,
-      "name": "EDGAR",
-      "online": 33,
-      "server_status": true,
-      "server_num": "1"
-    },
-   {
-      "color": "fff000",
-      "dopname": "(X2 акции)",
-      "maxonline": 50,
-      "name": "Lom",
-      "online": 100,
-      "server_status": true,
-      "server_num": "2"
-    }
+	{
+		"ip": "191.96.92.97",
+		"port": 7777,
+		"id": 1,
+		"color":"ff2624",
+		"action": 1,
+		"key":"",
+		"name":"NewThings"
+	}
 ]
