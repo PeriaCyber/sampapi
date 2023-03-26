@@ -1,10 +1,10 @@
 [
 	{
-		"ip": "127.0.0.1",
+		"ip": "191.96.92.97",
 		"port": 7777,
-		"id": 0,
+		"id": 1,
 		"color":"ff2624",
-		"action": 0,
+		"action": 1,
 		"key":"",
 		"name":"NewThings"
 	}
