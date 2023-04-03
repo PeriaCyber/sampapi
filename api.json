@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "",
-    "URL_GAME_FILES_UPD" : "",
-    "URL_VK": "",
-    "URL_DISCORD": "",
-    "URL_YOUTUBE": "",
-    "URL_FORUM": "",
-    "URL_DONATE": "",
-    "URL_CLIENT": ""
+    "URL_GAME_FILES" : "https://127.0.0.1/mobile/game.zip",
+    "URL_GAME_FILES_UPD" : "https://127.0.0.1/mobile/files_upd.zip",
+    "URL_VK": "https://",
+    "URL_DISCORD": "https://",
+    "URL_YOUTUBE": "https://",
+    "URL_FORUM": "https://",
+    "URL_DONATE": "https://",
+    "URL_CLIENT": "https://127.0.0.1/mobile/client.apk"
 }
