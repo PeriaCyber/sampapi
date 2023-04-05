@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 1,
     "gameFilesVersionCode": 2,
-    "URL_GAME_FILES" : "https://upload.i4th.in.th:8443/getfile.php?id=461747&a=e499f18c0e0c57819e0419ceee57ab3a&t=642d8f0d&o=05F9637923F773FDE46F8EA7842BEC5A0DF9626C2AEA7AFDE66C8EBF8226E45A1AE40C2F7BAB6F849F738EA7853E&n=game.zip",
+    "URL_GAME_FILES" : "http://191.96.92.66/game.zip",
     "URL_GAME_FILES_UPD" : "http://191.96.92.66/files_upd.zip",
     "URL_VK": "https://",
     "URL_DISCORD": "https://",
     "URL_YOUTUBE": "https://",
     "URL_FORUM": "https://",
     "URL_DONATE": "https://",
-    "URL_CLIENT": "http://127.0.0.1/client.apk"
+    "URL_CLIENT": "http://191.96.92.66/client.apk"
 }
