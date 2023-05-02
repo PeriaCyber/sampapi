@@ -8,5 +8,13 @@
     "URL_YOUTUBE": "https://",
     "URL_FORUM": "https://",
     "URL_DONATE": "https://",
-    "URL_CLIENT": "http://191.96.92.66/client.apk"
+    "URL_CLIENT": "http://191.96.92.66/client.apk",
+    "IMAGE_NEWS": "https://",
+    "TITLE_NEWS": "https://",
+    "DESC_NEWS": "https://",
+    "LINK_NEWS": "https://",
+    "IMAGE_OPROS": "https://",
+    "TITLE_OPROS": "http://",
+    "DESC_OPROS": "https://",
+    "LINK_OPROS": "http://"
 }
